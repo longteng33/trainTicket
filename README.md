@@ -1,4 +1,5 @@
 # trainTicket
+https://longteng33.github.io/trainTicket  
 火车票城市选取  
 1、两个城市都用绝对定位，分别给不同的类定位在左边和右边，点击交换按钮的时候，就互换它们的类  
 2、在两个城市的元素上面添加transition，在位置发生变化的时候会有动画效果  
